@@ -1,0 +1,1 @@
+pip install pyqt6 pandas openpyxl -i https://pypi.tuna.tsinghua.edu.cn/simple
