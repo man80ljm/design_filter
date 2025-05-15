@@ -1,20 +1,13 @@
 {
   "api_key": "sk-76b0056400e54b359a154c3ea8c54c63",
-<<<<<<< HEAD
-  "prompt": "帮我把和美食，文化，文创，风景，建筑，街道相关的正向关键词提取8个，其余的无关的内容都作为反向关键词，提取出来。",
-  "positive_count": 8,
-  "negative_count": 120,
-  "timeout": 60,
-  "language": "Chinese",
-  "max_features": 900,
-  "filter_columns": "评论文本"
-=======
-  "prompt": "请帮我提炼关于设计、艺术设计、\n交互设计、工程设计、工业设计\n相关的正向关键词15个，以及无关的\n生物、化学、人类学等反向关键词50个",
+  "prompt": "请帮我提炼关于建筑，文化，街景，街区，旅游纪念品，非遗，非物质文化遗产\n相关的正向关键词，以及无关的\n演唱会，美食等其他反向关键词",
   "positive_count": 15,
-  "negative_count": 60,
+  "negative_count": 40,
   "timeout": 60,
-  "language": "English",
-  "max_features": 1000,
-  "filter_columns": "2"
->>>>>>> 60caab8c0e5380412146db294606f3db48607061
+  "language": "中文",
+  "min_token_length": 2,
+  "max_token_length": 5,
+  "batch_size": 100,
+  "concurrent_batches": 4,
+  "filter_columns": "评论文本"
 }

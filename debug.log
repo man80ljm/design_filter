@@ -1,0 +1,28 @@
+2025-05-14 16:47:14,927 - DEBUG - 程序启动
+2025-05-14 16:47:14,956 - DEBUG - 开始初始化 DesignFilterTool
+2025-05-14 16:47:14,957 - DEBUG - 检查 NLTK 资源文件
+2025-05-14 16:47:14,957 - ERROR - NLTK 资源文件缺失
+2025-05-14 16:48:16,475 - DEBUG - 程序启动
+2025-05-14 16:48:16,490 - DEBUG - 开始初始化 DesignFilterTool
+2025-05-14 16:48:16,490 - DEBUG - 检查 NLTK 资源文件
+2025-05-14 16:48:16,490 - ERROR - NLTK 资源文件缺失
+2025-05-14 20:35:42,243 - DEBUG - 程序启动
+2025-05-14 20:35:42,371 - DEBUG - 开始初始化 DesignFilterTool
+2025-05-14 20:35:42,371 - DEBUG - 自动创建资源文件夹
+2025-05-14 20:35:42,373 - INFO - 创建文件夹：resources/nltk_data/tokenizers/punkt
+2025-05-14 20:35:42,373 - INFO - 创建文件夹：resources/nltk_data/taggers/averaged_perceptron_tagger
+2025-05-14 20:35:42,374 - INFO - 创建文件夹：resources/hanlp_data/data/dictionary
+2025-05-14 20:35:42,374 - INFO - 创建文件夹：resources/hanlp_data/data/model/pos
+2025-05-14 20:35:42,374 - INFO - 所有文件夹创建完成！
+2025-05-14 20:35:42,375 - DEBUG - 检查 NLTK 资源文件
+2025-05-14 20:35:42,375 - ERROR - NLTK 资源文件缺失
+2025-05-14 20:36:17,747 - DEBUG - 程序启动
+2025-05-14 20:36:17,761 - DEBUG - 开始初始化 DesignFilterTool
+2025-05-14 20:36:17,761 - DEBUG - 自动创建资源文件夹
+2025-05-14 20:36:17,762 - INFO - 创建文件夹：resources/nltk_data/tokenizers/punkt
+2025-05-14 20:36:17,762 - INFO - 创建文件夹：resources/nltk_data/taggers/averaged_perceptron_tagger
+2025-05-14 20:36:17,762 - INFO - 创建文件夹：resources/hanlp_data/data/dictionary
+2025-05-14 20:36:17,762 - INFO - 创建文件夹：resources/hanlp_data/data/model/pos
+2025-05-14 20:36:17,763 - INFO - 所有文件夹创建完成！
+2025-05-14 20:36:17,763 - DEBUG - 检查 NLTK 资源文件
+2025-05-14 20:36:17,763 - ERROR - NLTK 资源文件缺失
